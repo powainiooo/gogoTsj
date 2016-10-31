@@ -7,3 +7,4 @@ test.
 add name
 
 2016-09-05 monday
+GPL
